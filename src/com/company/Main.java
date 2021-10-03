@@ -10,5 +10,6 @@ public class Main {
                         .age(35)
                         .build();
         System.out.println(person.getFirstName());
+        System.out.println(person.getLastName());
     }
 }
